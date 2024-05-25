@@ -19,19 +19,19 @@
     </div>
     <div class="name">
       <div class="letter">
-        <img src="../assets/img/R.png" class="letter-image">
+        <img src="../assets/R.png" class="letter-image">
       </div>
       <div class="letter">
-        <img src="../assets/img/I.png" class="letter-image">
+        <img src="../assets/I.png" class="letter-image">
       </div>
       <div class="letter">
-        <img src="../assets/img/C.png" class="letter-image">
+        <img src="../assets/C.png" class="letter-image">
       </div>
       <div class="letter">
-        <img src="../assets/img/K.png" class="letter-image">
+        <img src="../assets/K.png" class="letter-image">
       </div>
       <div class="letter">
-        <img src="../assets/img/Y.png" class="letter-image">
+        <img src="../assets/Y.png" class="letter-image">
       </div>
     </div>
   </div>
